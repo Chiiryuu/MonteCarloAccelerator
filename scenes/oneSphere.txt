@@ -1,0 +1,11 @@
+# you may include comments here 
+eye 25 25 60 
+look 25 25 10 
+up 0 1 0 
+d -10
+bounds -1 1 -1 1 
+res 256 256
+ambient 0.2 0.2 0.2 
+light 5 32 30 1 0.5 1.0 0.5 
+light 45 32 30 1 1.0 0.5 0.5 
+sphere 25 25 10 4 0.2 0.2 0.2 0.7 0.7 0.7 0.5 0.5 0.5 1.0 1.0 1.0

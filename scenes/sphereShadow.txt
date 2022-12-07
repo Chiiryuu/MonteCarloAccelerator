@@ -1,0 +1,14 @@
+# you may include comments here
+recursionlevel 0
+eye 0 0 0
+look 1 0 0
+up 0 0 1 
+d -1
+bounds -1 1 -1 1 
+res 256 256
+ambient 0.1 0.1 0.1 
+light  0 2 -2 1 0.7 0.2 0.4
+light  0 2 2 1 0.2 0.7 0.4 
+sphere 3 0 -1 0.5 0.2 0.2 0.2 0.7 0.7 0.7 0.5 0.5 0.5 0.5 0.5 0.5
+sphere 3 0 1 0.5 0.2 0.2 0.2 0.7 0.7 0.7 0.5 0.5 0.5 0.5 0.5 0.5
+sphere 10 0 0 5 0.2 0.2 0.2 0.7 0.7 0.7 0.5 0.5 0.5 0.5 0.5 0.5
